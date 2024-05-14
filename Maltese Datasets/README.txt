@@ -1,0 +1,3 @@
+Articles contains the web scrapers for the sources mentioned in the study and the code to create the Korpus Ġurnalistiku.
+Enrichment contains the working data, the script through which the working data was inputted, the script to enrich the translated SQuAD datasets and the enriched datasets as arrow files.
+Translating SQuAD contains the working data, the script to translate the datasets, the translated datasets and the code to calculate retention

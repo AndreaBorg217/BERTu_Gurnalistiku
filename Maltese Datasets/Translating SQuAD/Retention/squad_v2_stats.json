@@ -1,0 +1,26 @@
+{
+    "Original SQuAD V2": {
+        "Train": 130319,
+        "Valid": 11873,
+        "Train (Has Ans)": 86821,
+        "Train (Impossible)": 43498,
+        "Valid (Has Ans)": 5928,
+        "Valid (Impossible)": 5945
+    },
+    "Translated SQuAD V2": {
+        "Train": 102107,
+        "Valid": 10452,
+        "Train (Has Ans)": 59006,
+        "Train (Impossible)": 43101,
+        "Valid (Has Ans)": 4550,
+        "Valid (Impossible)": 5902
+    },
+    "Retention when translating SQuAD V2": {
+        "Train": "78.35",
+        "Valid": "88.03",
+        "Train (Has Ans)": "67.96",
+        "Train (Impossible)": "99.09",
+        "Valid (Has Ans)": "76.75",
+        "Valid (Impossible)": "99.28"
+    }
+}

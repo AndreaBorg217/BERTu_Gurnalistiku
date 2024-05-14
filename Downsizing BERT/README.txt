@@ -1,0 +1,2 @@
+The Downsize BERT Corpora notebook can be used to obtain a 2.5GB corpus from the corpora used to pre-train BERT
+The pretrain notebook can be used to pre-train a BERT model from scratch using the corpus obtained by the previous notebook.  Make sure to set the WandB API key.

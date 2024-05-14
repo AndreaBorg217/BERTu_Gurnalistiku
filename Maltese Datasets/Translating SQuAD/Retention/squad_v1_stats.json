@@ -1,0 +1,14 @@
+{
+    "Original SQuAD V1": {
+        "Train": 87599,
+        "Valid": 10570
+    },
+    "Translated SQuAD V1": {
+        "Train": 58542,
+        "Valid": 3669
+    },
+    "Retention when translating SQuAD V1": {
+        "Train": "66.83",
+        "Valid": "34.71"
+    }
+}

@@ -1,0 +1,1 @@
+This notebook can be used to further pre-train BERTu.  Make sure to set the WandB API key and project and include a corpus in the directory.

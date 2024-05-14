@@ -1,0 +1,4 @@
+translated_valid.xlsx -> 10426
++ squad_v2_valid_errors -> 10451 
++ squad_v2_valid_errors (1) -> 10452
++ squad_v2_valid_errors (2) -> 10452 [NO IMPROVEMENT, DISCARD AND RETRANSLATE)

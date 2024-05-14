@@ -1,0 +1,2 @@
+To run the UI, create a folder with the ui.py file, the corpus and the model directory, ensuring that the tokenizer for the model is saved in the same directory as the model.
+Then open a terminal inside the directory and run the "streamlit run ui.py" command to execute the UI script. A new browser window should open with the UI.

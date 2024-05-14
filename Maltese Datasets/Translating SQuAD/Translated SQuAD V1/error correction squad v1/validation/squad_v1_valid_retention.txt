@@ -1,0 +1,2 @@
+translated_valid.xlsx -> 3669
++ squad_v1_valid_errors.xlsx -> 3664 [DISCARD & RETRANSLATE]

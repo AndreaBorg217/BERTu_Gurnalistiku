@@ -1,0 +1,5 @@
+translated_train.xlsx -> 101989
++ squad_v2_train_errors -> 102096 [KEEP]
++ squad_v2_train_errors (1) -> 102106 [KEEP]
++ squad_v2_train_errors (2) -> 102107 [KEEP]
++ squad_v2_train_errors (3) -> 102107 [DISCARD & RETRANSLATE]
