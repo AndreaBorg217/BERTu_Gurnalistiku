@@ -18,7 +18,7 @@ if "qa" not in st.session_state:
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model_pb.progress(50, text=progress_text)
     model = BertForQuestionAnswering.from_pretrained(model_name)
-    # model.to_bettertransformer()
+    model.to_bettertransformer()
     model_pb.progress(75, text=progress_text)
     qa = pipeline("question-answering", model=model, tokenizer=tokenizer, device=device)
     model_pb.progress(100, text=progress_text)
